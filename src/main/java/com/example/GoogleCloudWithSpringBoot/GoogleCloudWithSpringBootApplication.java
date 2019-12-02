@@ -16,7 +16,7 @@ public class GoogleCloudWithSpringBootApplication {
 	@RequestMapping(value="/firstApp")
 	public String firstApp() {
 		
-		return "Hello this is GCP with springboot application*****";
+		return "Hello this is GCP with springboot application";
 	}
 
 }
